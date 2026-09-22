@@ -1,1 +1,1 @@
-# Spring Security Configuration file
+# Spring Security Configuration file using BCrypt 
